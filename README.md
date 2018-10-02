@@ -1,4 +1,4 @@
-> Work in progress
+> Work in progress  
 > To be open sourced upon completion
 
 # Estimation of Model Parameters using GMM
