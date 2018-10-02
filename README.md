@@ -1,3 +1,6 @@
+> Work in progress
+> To be open sourced upon completion
+
 # Estimation of Model Parameters using GMM
 
 Expectation Maximization (EM) algorithm is one of the most popular iterative algorithms used in the parametric density estimation in statistics. The main aim in the parametric density estimation is to estimate the parameters of the specified density from the evidence by maximizing the likelihood function. Thus EM algorithm essentially seeks the maximum of the likelihood function. However, this algorithm leads to a local maximum of the likelihood function rather than the absolute maximum, depending on the initial guess for the parameters. This leads to the parameter estimates which do not represent the data accurately and still are used in subsequent analyses which may lead to undesirable decisions. In order to overcome this issue, we propose a variant of EM algorithm which outperforms the existing EM algorithm in case of parameter estimation of mixture Gaussian densities.
