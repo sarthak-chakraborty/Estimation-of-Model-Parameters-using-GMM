@@ -13,6 +13,8 @@ We implemented the code in python using the scikit-learn package. However the wo
 
 Here are some of the observations that we noticed.
 
+![em1](https://user-images.githubusercontent.com/23696812/47911573-d21a7500-debb-11e8-8c91-b55c8857fcd1.png)
+
 https://drive.google.com/open?id=1pLnIm_HBCuER5bbw1JB85xONm-_uOVDk
 
 https://drive.google.com/open?id=14SU6yRi4epLpf9gAYirdCqIB-9FS_6Cu
