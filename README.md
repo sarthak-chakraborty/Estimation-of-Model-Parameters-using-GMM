@@ -14,3 +14,5 @@ We implemented the code in python using the scikit-learn package. However the wo
 Here are some of the observations that we noticed.
 
 ![Contour Plot showing the superiority of our approach (RandEM & GreedEM) over standard approach (RegEM)](https://drive.google.com/open?id=1pLnIm_HBCuER5bbw1JB85xONm-_uOVDk)
+
+https://drive.google.com/open?id=1pLnIm_HBCuER5bbw1JB85xONm-_uOVDk
