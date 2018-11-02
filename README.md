@@ -13,7 +13,7 @@ We implemented the code in python using the scikit-learn package. However the wo
 
 Here are some of the observations that we noticed.
 
-![em1](https://user-images.githubusercontent.com/23696812/47911573-d21a7500-debb-11e8-8c91-b55c8857fcd1.png)
+![Contour Plots showing the superiority of our approach](https://user-images.githubusercontent.com/23696812/47911573-d21a7500-debb-11e8-8c91-b55c8857fcd1.png)
 
 ![Clusters from Image Segmentation Dataset](https://user-images.githubusercontent.com/23696812/47911628-00985000-debc-11e8-8ba7-0097e234e152.png)
 
